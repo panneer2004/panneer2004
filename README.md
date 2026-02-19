@@ -5,42 +5,30 @@
   Hi, I'm <strong>Panneerselvam</strong>
 </h1>
 
-<h3>Java Developer </h3>//|  •  • 
+<h3>Java Full Stack Developer </h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I’m a Java developer who loves building robust, high-performance applications that turn complex requirements into clean, scalable
-    solutions.
+    Results-driven Java Full Stack Developer with strong expertise in Core Java, OOP, Spring Boot, Hibernate (JPA), RESTful APIs, and MySQL.
   </p>
-  <p>From designing efficient backend architectures to crafting secure RESTful APIs, I develop systems that are reliable, maintainable, and built to scale.
+  <p>
+    Experienced in building scalable backend systems using layered architecture (Controller–Service–Repository), implementing JWT-based authentication and RBAC, and optimizing database performance through indexing and query tuning.
   </p>
 
   <p>
     <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
     <a href="mailto:panneerselvampanneer2004@gmail.com"><img src="https://img.shields.io/badge/📧_panneerselvampanneer2004@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🤝_Open_to_Collaboration-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🔐_JWT_&_RBAC_Security-1e1e2e?style=for-the-badge" />
   </p>
 
 <h3>🌐 Socials</h3>
   
 <p align="left">
-  <a href="https://dev.to/midhun-nk">
-    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://discord.com/users/midhun_n">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
-  </a>
-
   <a href="https://github.com/panneer2004">
     <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://instagram.com/mike.devlogs">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
   </a>
 
   <a href="https://linkedin.com/in/panneerselvam2004">
@@ -48,53 +36,66 @@
   </a>
 </p>
 
-
-  <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Visit"/>
+  <img src="https://komarev.com/ghpvc/?username=panneer2004&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
 <br clear="all" />
 
-
 ## 🛠️ Skills
+
 <p align="center">
 <table>
 <tr>
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
 
- <img src="https://skillicons.dev/icons?i=html,css,js,java" />
+<img src="https://skillicons.dev/icons?i=java,js" />
 <br/><br/>
 
 </td>
 
 <td width="50%" align="center">
-   <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,springboot,hibernate" />
+<h3>📚 Frameworks & Libraries</h3>
+
+<img src="https://skillicons.dev/icons?i=spring,springboot,hibernate,nodejs,express" />
+
 </td>
-
-
-
 </tr>
+
 <tr>
 <td width="50%" align="center">
-  <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mysql," />
+<h3>🌐 Frontend</h3>
+
+<img src="https://skillicons.dev/icons?i=html,css" />
 <br/><br/>
 
 </td>
 
 <td width="50%" align="center">
-    <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,intellijidea,postman,eclipse" />
+<h3>🗄️ Databases</h3>
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+<h3>🧰 Tools</h3>
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,intellijidea,eclipse" />
+
+</td>
+
+<td width="50%" align="center">
+<h3>⚙️ Concepts</h3>
+
+JWT Authentication • RBAC • MVC Architecture • Layered Architecture • Exception Handling • Collections • Multithreading • REST APIs • Data Structures
+
 </td>
 </tr>
 </table>
 </p>
-
-
-
-
-
 
 ## 📊 GitHub Stats
 
@@ -102,6 +103,13 @@
   <br/>
   <img src="https://streak-stats.demolab.com?user=panneer2004&theme=dark&hide_border=true" alt="Streak" />
 </div>
+
+---
+
+## 🚀 Featured Project
+
+### 🏦 Banking Application (Spring Boot)
+Built a robust backend Banking Application with full CRUD operations for accounts and transactions using Spring Boot, Hibernate (JPA), and MySQL. Implemented validation, global exception handling, layered architecture, and tested APIs using Postman.
 
 ---
 
