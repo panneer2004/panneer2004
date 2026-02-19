@@ -71,7 +71,7 @@ Backend-focused Java Developer with strong expertise in:
 # 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,spring,springboot,hibernate,nodejs,express,mysql,git,github,postman,intellijidea,eclipse" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,spring,springboot,hibernate,nodejs,express,mysql,git,github,postman,eclipse" />
 </p>
 
 ---
@@ -84,15 +84,6 @@ Backend-focused Java Developer with strong expertise in:
 - Designed scalable REST APIs  
 - Implemented JWT + RBAC Security  
 - Improved performance by 40% via indexing & optimization  
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=panneer2004&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=panneer2004&theme=tokyonight&hide_border=true" height="165"/>
-</div>
 
 ---
 
