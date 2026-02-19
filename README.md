@@ -1,107 +1,74 @@
 <!-- ================= HEADER ================= -->
 
 <img align="center" width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Panneerselvam&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,40:c9b6ff,70:9f7aea,100:6C4AB6&height=240&section=header&text=T.Panneerselvam&fontSize=48&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Java%20Backend%20Engineer&descAlignY=65&descSize=20"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer;Spring+Boot+Backend+Specialist;REST+API+Architect;JWT+%7C+RBAC+Security+Implementation;Open+to+Backend+Opportunities" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=24&pause=1500&color=6C4AB6&center=true&vCenter=true&width=750&lines=Secure+JWT+%26+RBAC+Architecture;Scalable+Backend+Systems;Spring+Boot+%7C+REST+API+Engineer;Performance+Driven+Development" />
 </p>
 
-<h2 align="center">
-🚀 Backend-Focused Java Developer | Spring Boot | Secure REST APIs | Scalable Architecture
-</h2>
+---
+
+<h2 align="center">PROFILE</h2>
+
+Backend-focused Java Engineer specializing in scalable backend systems, secure REST APIs, and production-grade architecture using Spring Boot, Hibernate (JPA), and MySQL.
 
 ---
 
-# 👨‍💻 About Me
+<h2 align="center">TECH STACK</h2>
 
-Backend-focused Java Developer with strong expertise in:
-
-- Core Java & OOP
-- Spring Boot & Hibernate (JPA)
-- RESTful API Development
-- JWT Authentication & RBAC
-- MySQL Database Optimization
-- Layered Architecture (Controller–Service–Repository)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,spring,hibernate,nodejs,express,mysql,git,github,postman,eclipse" />
+</p>
 
 ---
 
-# 📄 Resume
+<h2 align="center">EXPERIENCE</h2>
+
+### Software Development Intern — AAHA Solutions
+
+• Developed scalable backend modules  
+• Designed secure REST APIs  
+• Implemented JWT & RBAC  
+• Improved performance by 40%  
+
+---
+
+<h2 align="center">PROJECTS</h2>
+
+### Banking Application (Spring Boot)
+
+• Full CRUD operations  
+• Layered architecture implementation  
+• Global exception handling  
+• JPA + MySQL integration  
+
+---
+
+<h2 align="center">RESUME</h2>
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1XbrcaEqp1et3XiJApbuoasjOw58jvAAs/view?usp=drivesdk">
-    <img src="https://img.shields.io/badge/Download_Resume-0077B5?style=for-the-badge&logo=readthedocs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Download_Resume-6C4AB6?style=for-the-badge"/>
   </a>
 </p>
 
 ---
 
-# 🧩 DSA Progress
-
-<p align="center">
-  <img src="https://img.shields.io/badge/DSA_Problems_Solved-150+-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge&logo=leetcode" />
-  <img src="https://img.shields.io/badge/HackerRank-5_Star-green?style=for-the-badge&logo=hackerrank" />
-</p>
-
-*(Update numbers manually as you grow.)*
-
----
-
-# 🌍 Live Projects
-
-### 🏦 Banking Application (Spring Boot) 
-📂 Repository: https://github.com/panneer2004/banking-app  
-
-### 💰 Fee Management Module
-📂 Repository: https://github.com/panneer2004/fee-management  
-
----
-
-# 🏆 Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Full_Stack_Certified-QSpiders-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Backend_Performance_Optimized-40%25_Improvement-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JWT_%2B_RBAC_Implemented-Security-critical?style=for-the-badge" />
-</p>
-
----
-
-# 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,spring,springboot,hibernate,nodejs,express,mysql,git,github,postman,eclipse" />
-</p>
-
----
-
-# 💼 Internship Experience
-
-### 🏢 AAHA Solutions — Software Development Intern
-
-- Built Fee Management Module using Node.js, Express.js & MySQL  
-- Designed scalable REST APIs  
-- Implemented JWT + RBAC Security  
-- Improved performance by 40% via indexing & optimization  
-
----
-
-# 🌐 Connect With Me
+<h2 align="center">CONNECT</h2>
 
 <p align="center">
   <a href="mailto:panneerselvampanneer2004@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1e1e2e?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-6C4AB6?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/panneerselvam2004">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/panneer2004">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-6C4AB6?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
+<!-- ================= FOOTER ================= -->
+
 <img align="center" width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,40:c9b6ff,70:9f7aea,100:6C4AB6&height=130&section=footer"/>
